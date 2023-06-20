@@ -1,7 +1,6 @@
 # MLflow on AWS
 
 
-Bucker Name: mlops-buc01
 
 ## MLflow on AWS Setup:
 
